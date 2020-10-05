@@ -1,0 +1,17 @@
+  
+.container.reto1 .row div {
+    background: #6a2c70;
+    border: 1px solid white;
+    height: 50px;
+  }
+  .container.reto2 .row div {
+    background: #edc988;
+    border: 1px solid white;
+    height: 50px;
+  }
+  .container.reto3 .row div {
+    background: #ff414d;
+    border: 1px solid white;
+    height: 50px;
+  }
+  
